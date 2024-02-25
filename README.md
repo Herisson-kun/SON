@@ -9,7 +9,7 @@ This project aims to develop a guitar tuner using signal processing techniques i
 - User-friendly interface for visualizing detected pitch
 
 ### Installation
-1. Clone the project repository from GitHub: [https://github.com/Herisson-kun/SON/]
+1. Download the pitch_tracking.ino file in the code directory from GitHub: [https://github.com/Herisson-kun/SON/].
 2. Navigate to the code directory and open the pitch_tracking.ino file.
 3. Transfer it to the teensy.(beware to configure correctly the port and card in the Arduino IDE)
 
